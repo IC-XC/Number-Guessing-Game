@@ -1,2 +1,2 @@
-# Number-Guessing-Game
-Relational Database - Number Guessing Game
+# 📖 Number-Guessing-Game
+# 👣 Relational Database - Number Guessing Game
